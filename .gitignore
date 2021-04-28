@@ -1,4 +1,4 @@
-"main.go" 
-"*.c" 
-"*.dll" 
-"*.exe" 
+main.go
+*.c
+*.dll
+*.exe
